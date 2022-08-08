@@ -71,3 +71,24 @@ img {
     margin-right: auto;
     text-align: center;
 }
+
+.contact-me {
+    max-width: 800px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #ECAA68;
+}
+
+a:link {
+    color: grey;
+  }
+
+a:hover {
+    color: #1D110C;
+  }
+
+a:visited {
+   color: #993C27;
+}
