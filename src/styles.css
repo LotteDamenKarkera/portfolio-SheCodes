@@ -14,10 +14,19 @@ h2 {
 
 h3 {
     font-family: 'Raleway', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     color: #F8F8F8;
     text-align: center;
 }
+
+h4 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    color: #1D110C;
+    text-align: center;
+    background-color: #ECAA68;
+}
+
 
 p {
     font-family: 'Raleway', sans-serif;
@@ -34,11 +43,29 @@ img {
     max-width: 100%;
     height: auto;
     float: left;
+    margin-bottom: 15px;
   }
 
 .profile {
     max-width: 800px;
     margin-top: 40px;
+    margin-bottom: 40px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.portfolio {
+    max-width: 800px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.my-work {
+    max-width: 800px;
     display:block;
     margin-left: auto;
     margin-right: auto;
