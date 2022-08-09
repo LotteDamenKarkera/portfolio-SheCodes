@@ -6,15 +6,16 @@
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 60px;
     font-family: var(--heading-font-family);
     color: var(--secundary-branding-color);
     text-align: center;
+    margin: 15px;
 }
 
 h2 {
     font-family: var(--body-font-family);
-    font-size: 40px;
+    font-size: 30px;
     color: #F8F8F8;
     text-align: center;
 }
